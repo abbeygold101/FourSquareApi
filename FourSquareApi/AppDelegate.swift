@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  FourSquareApi
 //
-//  Created by Abiodun Olanrewaju on 04/04/16.
+//  Created by Abiodun Olanrewaju on 09/04/16.
 //  Copyright © 2016 Abbey Ola. All rights reserved.
 //
 
