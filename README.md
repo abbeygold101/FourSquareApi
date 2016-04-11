@@ -24,8 +24,8 @@ Get place input place name from user, check if the input is convertable to geo c
 
 #screeshots 
 
-![alt tag](https://raw.githubusercontent.com/abbeygold101/Movie-Database-Api-with-Swift-/master/home.png)
+![alt tag](https://raw.githubusercontent.com/abbeygold101/FourSquareApi/master/home.png)
 
-![alt tag](https://raw.githubusercontent.com/abbeygold101/Movie-Database-Api-with-Swift-/master/map.png)
+![alt tag](https://raw.githubusercontent.com/abbeygold101/FourSquareApi/master/map.png)
 
-![alt tag](https://raw.githubusercontent.com/abbeygold101/Movie-Database-Api-with-Swift-/master/mapDetail.png)
+![alt tag](https://raw.githubusercontent.com/abbeygold101/FourSquareApi/master/mapDetail.png)
